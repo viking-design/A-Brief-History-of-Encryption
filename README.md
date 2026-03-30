@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # A-Brief-History-of-Encryption
 
 ## ❗❗❗This project is currently a work in progress❗❗❗
@@ -21,6 +20,3 @@ Either download all the code so you can adapt it as you see fit, see figure 1 be
 * https://www.ibm.com/think/topics/cryptography-history
 * https://www.redhat.com/en/blog/brief-history-cryptography​
 * https://blog.scienceandmediamuseum.org.uk/top-secret-ciphers-from-ancient-greece-to-the-second-world-war/​
-=======
-# A-Brief-History-of-Encryption
->>>>>>> 6211004585cfd1878b55b7a9a9cccc4ebf3ce02e
