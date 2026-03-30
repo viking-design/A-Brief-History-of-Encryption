@@ -24,7 +24,7 @@ Figure 1: A screenshot detailing where to find the download zip button to downlo
 <img width="598" height="551" alt="Instruction 2" src="https://github.com/user-attachments/assets/7d18648d-1069-4f32-8f37-31a3c0283c3d" />
 <br/>Figure 2: A screenshot showing where the release section is.<br/>
 
-## Figure 3
+### Figure 3
 <img width="2465" height="926" alt="Instruction 3" src="https://github.com/user-attachments/assets/ab16e5e8-5900-423a-8e5b-568c385e0723" />
 Figure 3: A screenshot showing where to find the released software.
 
