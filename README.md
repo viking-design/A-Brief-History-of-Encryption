@@ -17,6 +17,6 @@ This program contains the following encryption methods:
 Either download all the code so you can adapt it as you see fit, see figure 1 below, or download a compiled release version, see figure 2 below.
 
 ## 📖 Further Reading
-* https://www.ibm.com/think/topics/cryptography-history
-* https://www.redhat.com/en/blog/brief-history-cryptography​
+* https://www.ibm.com/think/topics/cryptography-history<br/>
+* https://www.redhat.com/en/blog/brief-history-cryptography<br/>​
 * https://blog.scienceandmediamuseum.org.uk/top-secret-ciphers-from-ancient-greece-to-the-second-world-war/​
