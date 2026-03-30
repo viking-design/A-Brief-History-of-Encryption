@@ -14,7 +14,15 @@ This program contains the following encryption methods:
 * RSA Encryption
 
 ## ⬇️ Installation
-Either download all the code so you can adapt it as you see fit, see figure 1 below, or download a compiled release version, see figure 2 below.
+This section has been written for people who are unfamiliar with GitHub. Either download all the code so you can adapt it as you see fit, see figure 1 below, or download a compiled release version of the program, see figures 2 and 3 below.
+<img width="1827" height="799" alt="A screenshot showing how to download all the source code for the repository" src="https://github.com/user-attachments/assets/be54a58c-131e-4174-86dc-6ebc8e23d051" />
+Figure 1: A screenshot detailing where to find the download zip button to download this program's source code.
+
+<img width="165" height="154" alt="Instruction 2" src="https://github.com/user-attachments/assets/38a45869-a26c-4e3a-a1a3-025df651eb0a" />
+Figure 2: A screenshot showing where the release section is.
+
+<img width="2465" height="926" alt="Instruction 3" src="https://github.com/user-attachments/assets/ab16e5e8-5900-423a-8e5b-568c385e0723" />
+Figure 3: A screenshot showing where to find the released software.
 
 ## 📖 Further Reading
 * [IBM Article](https://www.ibm.com/think/topics/cryptography-history)
