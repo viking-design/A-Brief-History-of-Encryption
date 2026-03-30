@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="A Brief History of Encryption/A Brief History of Encryption.vcxproj" Id="c47dfab5-fdc8-4299-94cc-0864c7ffe2a8" />
+</Solution>
